@@ -336,7 +336,7 @@ footer ul li {
     margin-top: 40px;
 }
 
-@media (max-width:400px) {
+@media (max-width:768px) {
     section {
         padding: 0;
     }
@@ -400,7 +400,7 @@ footer ul li {
         height: 60px;
         text-align: center;
         font-size: 34px;
-        margin-left: 0;
+        margin-left: 10px ;
     }
 
     .search-bar {
@@ -476,7 +476,7 @@ footer ul li {
     }
 
     .boxes h4 {
-        font-size: 45px;
+        font-size: 60px;
         text-align: center;
     }
 
@@ -489,7 +489,7 @@ footer ul li {
     }
 
     .box h5 {
-        font-size: 44px;
+        font-size: 50px;
     }
 
     .box span {
@@ -497,7 +497,7 @@ footer ul li {
     }
 
     .box p {
-        font-size: 22px;
+        font-size: 34px;
         width: 100%;
         text-align: center;
     }
@@ -545,7 +545,7 @@ footer ul li {
 
     .footer2 ul li {
         text-align: center;
-        font-size: 30px;
+        font-size: 40px;
         margin-left: 0;
     }
 
