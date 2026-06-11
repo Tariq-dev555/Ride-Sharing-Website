@@ -22,9 +22,13 @@
  📁 Project Structure
  
    ride-sharing-website/
+   
    │
+   
    ├── index.html
+   
    ├── style.css
+   
    └── images/
 
  🎯 What I Learned
